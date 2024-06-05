@@ -35,7 +35,7 @@ Name,PClass,Age,Sex,Survived,SexCode
 "Brady, Mr John Bertram",1st,41.0,male,0,0
 "Brandeis, Mr Emil",1st,48.0,male,0,0
 "Brewe, Dr Arthur Jackson",1st,,male,0,0
-"Brown, Mrs James Joseph (Margaret Molly Tobin)",1st,44.0,female,1,1
+"Brown, Mrs James Joseph (Margaret Molly"" Tobin)""",1st,44.0,female,1,1
 "Brown, Mrs John Murray (Caroline Lane Lamson)",1st,59.0,female,1,1
 "Bucknell, Mrs William Robert (Emma Eliza Ward)",1st,60.0,female,1,1
 "Butt, Major Archibald Willingham",1st,45.0,male,0,0
